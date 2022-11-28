@@ -1,4 +1,4 @@
-The documentation for JustChatting GitHub page is getting written soon. In the mean time, feel free to:
+This README for the JustChatting GitHub page is being written soon. In the mean time, feel free to:
 
 
 [Join the Discord](https://discord.gg/JUHhzARJ)
